@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": "1692477609",
-      "filename": "lineage-20.0-20230820-UNOFFICIAL-hanoip.zip",
+      "filename": "LineageOS-20-20230820.zip",
       "id": "f7717740564a7e8e073bda377ceb2e497019a9e7284401a35390e6bf0f8f6ba6",
       "romtype": "UNOFFICIAL",
       "size": "760603419",
-      "url": "https://sourceforge.net/projects/hanoip-supremacy/files/latest/download",
+      "url": "https://sourceforge.net/projects/hanoip-supremacy/files/ROMs/LineageOS/BETA/LineageOS-20-20230820.zip/download",
       "version": "20.0"
     }
   ]
